@@ -30,3 +30,5 @@ repos:
 
 # Style Variables
 brand_color: "#1188ff"
+
+theme: jekyll-theme-minimal
