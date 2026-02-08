@@ -1,6 +1,7 @@
 ---
 permalink: /7-break-down/
 title: 7. Break down hypotheses
+nav_order: 9
 ---
 You may have a mix of hypotheses at this point: Some call for building or prototyping software, and some may call for other actions that are not software-related. It’s important to break all of your hypotheses down into more specific, actionable sub-hypotheses that can be tracked in your project, but you may decide to separate your non software-related hypotheses out and track them separately.
 

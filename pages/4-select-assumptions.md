@@ -1,6 +1,7 @@
 ---
 permalink: /4-select-assumptions/
 title: 4. Select assumptions
+nav_order: 6
 ---
 Now we select the assumptions we need to test. Identify assumptions above that meet one (or more) of the following conditions:
 

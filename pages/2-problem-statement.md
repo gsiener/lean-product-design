@@ -1,6 +1,7 @@
 ---
 permalink: /2-problem-statement/
 title: 2. Write a problem statement
+nav_order: 4
 ---
 Gather your research and use it to create a problem statement. Describe ways that you will know (or measure) when you have solved the problem.
 

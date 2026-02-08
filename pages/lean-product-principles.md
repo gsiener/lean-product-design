@@ -1,6 +1,7 @@
 ---
 permalink: /lean-product-principles/
 title: Principles
+nav_order: 2
 ---
 
 ### Outcomes, not outputs

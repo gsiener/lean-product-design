@@ -1,5 +1,7 @@
 ---
 title: Introduction
+permalink: /
+nav_order: 1
 ---
 
 Lean product design is an approach to building products that encompasses a set of ideas about collaboration, design, and project management. Doing lean product design means fundamentally changing your focus from outputs (for example, features, functionality, colors) to outcomes (the changes in user behavior you want to see).

@@ -1,75 +1,18 @@
-markdown: redcarpet
 name: Lean Product Design
-
-exclude:
-- CONTRIBUTING.md
-- Gemfile
-- Gemfile.lock
-- LICENSE.md
-- README.md
-- go
+theme: just-the-docs
+url: https://gsiener.github.io
 
 permalink: pretty
 
-# Author/Organization info to be displayed in the templates
-author:
-  name: 18F
-  url: https://18f.gsa.gov
-
-# Point the logo URL at a file in your repo or hosted elsewhere by your organization
-logourl: /assets/img/18f-logo.png
-logoalt: 18f logo
-
-# Navigation
-# List links that should appear in the site sidebar here
-navigation:
-- text: Introduction
-  url: index.html
-  internal: true
-- text: Principles
-  url: lean-product-principles/
-  internal: true
-- text: 1. Conduct discovery research
-  url: 1-discovery-research/
-  internal: true
-- text: 2. Write a problem statement
-  url: 2-problem-statement/
-  internal: true
-- text: 3. Identify your assumptions
-  url: 3-identify-assumptions/
-  internal: true
-- text: 4. Select assumptions
-  url: 4-select-assumptions/
-  internal: true
-- text: 5. Develop broad hypotheses
-  url: 5-develop-hypotheses/
-  internal: true
-- text: 6. Prioritize broad hypotheses
-  url: 6-prioritize/
-  internal: true
-- text: 7. Break down hypotheses
-  url: 7-break-down/
-  internal: true
-- text: 8. Groom the backlog
-  url: 8-groom-backlog/
-  internal: true
-- text: 9. Plan the sprint and kick off the agile cycle
-  url: 9-plan-sprint-agile/
-  internal: true
-
-
-repos:
-- name: lean-product-design
-  description: Main repository
-  url: https://github.com/18F/lean-product-design
-
-back_link:
-  url: "https://pages.18f.gov/guides/"
-  text: Back to 18F Guides
+exclude:
+  - CONTRIBUTING.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
-      layout: "guides_style_18f_default"
+      layout: "default"

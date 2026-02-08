@@ -1,6 +1,7 @@
 ---
 permalink: /6-prioritize/
 title: 6. Prioritize broad hypotheses
+nav_order: 8
 ---
 
 With your product owner and any other stakeholders, identify 3-5 of your top priority hypotheses. Consider a technique like [dot voting](https://methods.18f.gov/feature-dot-voting/).

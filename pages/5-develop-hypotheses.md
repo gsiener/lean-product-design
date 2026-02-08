@@ -1,6 +1,7 @@
 ---
 permalink: /5-develop-hypotheses/
 title: 5. Develop broad hypotheses
+nav_order: 7
 ---
 When we want to test an assumption, we make it into a hypothesis. Building hypotheses will also help to expose gaps in your thinking.
 

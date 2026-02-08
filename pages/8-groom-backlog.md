@@ -1,6 +1,7 @@
 ---
 permalink: /8-groom-backlog/
 title: 8. Groom the backlog
+nav_order: 10
 ---
 With many hypotheses to tackle now listed on your issue-tracking board, it’s time to prioritize again. Divide your content in three Trello columns:
 

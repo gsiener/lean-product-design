@@ -1,6 +1,7 @@
 ---
 permalink: /3-identify-assumptions/
 title: 3. Identify your assumptions
+nav_order: 5
 ---
 Your problem and ideas about how to solve it are based on a set of assumptions. Lean product design is all about surfacing and testing those assumptions. Before diving into deciding what to test (building hypotheses), it’s important to consider all of your project’s potential assumptions.
 

@@ -1,6 +1,7 @@
 ---
 permalink: /9-plan-sprint-agile/
 title: 9. Plan the sprint and kick off the agile cycle
+nav_order: 11
 ---
 __Lean is the “brain” in the agile process__
 Agile on its own is good at managing the delivery of working code at the end of every sprint, but it does not help you ensure that you’re building the right thing or solving the right problem. That is where lean comes in and acts as the “brain” on the agile process: Everything you do or build in a sprint is an experiment — with the focus on learning whether the thing you are building gets you the outcome you were expecting. Therefore, your user stories take the form of hypotheses. At the end of each sprint, the team reflects on what it learned, makes an adjustment, and starts a new experiment. The team and client __must__ be willing to adjust, pivot, or discard, or it isn’t really an experiment.

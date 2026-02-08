@@ -1,9 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
-gem 'rouge'
-gem 'go_script'
-
-group :jekyll_plugins do
-  gem 'guides_style_18f'
-end
+gem "jekyll", "~> 4.4"
+gem "just-the-docs", "~> 0.12"

@@ -1,6 +1,7 @@
 ---
 permalink: /1-discovery-research/
 title: 1. Conduct discovery research
+nav_order: 3
 ---
 The first stage of any project is to do research to discover problems that need solving.
 
