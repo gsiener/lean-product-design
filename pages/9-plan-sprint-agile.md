@@ -9,13 +9,13 @@ Agile on its own is good at managing the delivery of working code at the end of 
 Your turn: Conduct the following steps during each agile sprint:  
 _For more in-depth reading on 18F’s Agile principles & practices, see [this guide](https://pages.18f.gov/agile/)._
 
-###Just before the beginning of the sprint:
+### Just before the beginning of the sprint:
 
 __1\. Groom the backlog__  
 >Who: Product owner, project lead, team optional.  
 What: Order hypotheses (stories) by priority in the appropriate backlog. 
 
-###At the beginning of the sprint:
+### At the beginning of the sprint:
 
 __2\. Plan the sprint__
 >Who: All! (PO/PM/Team)  
@@ -25,7 +25,7 @@ __3\. Hold a design studio__
 >Who: All! Including PO. Everyone must sketch. 
 What: Design studios are a means to iterate through ideas, allow the entire team to have input into potential solutions, build shared understanding, and break down hypotheses. 
 
-###During the sprint:
+### During the sprint:
 
 __4\. Build.__ As work starts on tasks in the sprint backlog, move them to a “working” list. When they’re completed, move them to the “acceptance testing” list, to indicate that the story is ready for acceptance by the product owner. In lean UX, we try to define acceptance criteria for a story as a mix of both basic functionality (the thing “works”) as well as the desired outcomes for the user (for example “Users X are able to easily export data into their workflow).   
   
@@ -38,7 +38,7 @@ It may be helpful to create a separate Trello board (or document) for capturing 
 
 <img src="{{site.baseurl}}/images/research_backlog.png" alt="Example of how to capture user research in trello, in a hypothesis format">
 
-###At the end of the sprint:
+### At the end of the sprint:
 
 __6\. Synthesize the results of user research with the team.__  
 >Who: Include team, POs whenever possible.  
@@ -53,7 +53,7 @@ What: Demo the completed stories, and review the key sprint findings: What was l
 
   
 
-##What’s next?
+## What's next?
 
 Based on what the team learned learned, you may need to come up with new or different hypotheses about how to go about getting the desired outcome. Or, if you’ve achieved your desired outcomes, you may move on to the next set of priority stories in the backlog to tackle. Repeat the sprint cycle, always with the focus on learning. 
 

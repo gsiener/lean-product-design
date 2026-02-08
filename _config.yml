@@ -1,6 +1,7 @@
 name: Lean Product Design
 theme: just-the-docs
 url: https://gsiener.github.io
+baseurl: /lean-product-design
 
 permalink: pretty
 

@@ -8,12 +8,12 @@ Lean product design is an approach to building products that encompasses a set o
 
 At the core of lean product design is *hypothesis-driven development.* Many of our beliefs about users, their problems, and possible solutions are assumptions that need to be tested. We can do this by building in small, iterative pieces with the goal of learning whether our assumptions are well-founded — and ultimately whether our ideas or features will have the outcomes we want, both for the business and for our end users.
 
-###Why use a lean approach?
+### Why use a lean approach?
 When building digital tools and services, it’s tempting to think in terms of features. But our users don’t care about what features our sites have; they care what they can accomplish. This is also true of the people and agencies who own the sites: while they may talk about features, they actually care more about whether the site helps them achieve their mission and business goals.
 
 Lean product design keeps us focused on outcomes and forces us to check, as we build, how our product works and what it accomplishes.
 
-###Our guide: Who it's for and how to use it
+### Our guide: Who it's for and how to use it
 This guide is designed to help 18F product teams work together by establishing a shared vocabulary, set of principles, and basic process. Different teams may build on this process differently to meet their needs.
 
 There are two main parts to this guide:

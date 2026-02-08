@@ -7,7 +7,7 @@ Your problem and ideas about how to solve it are based on a set of assumptions. 
 
 Your turn: Thinking about your problem statement, map out all the assumptions you have (everyone should contribute, and no ideas should be rejected) about needs, users, and potential solutions. These are suggested brainstorming questions that help get at some common assumptions:  
 
-###Needs and solution assumptions
+### Needs and solution assumptions
 
 >1. I believe my users have a need to: 
 2. I believe these needs can be solved with: 
@@ -20,7 +20,7 @@ Your turn: Thinking about your problem statement, map out all the assumptions yo
 9. What other assumptions do we have that, if proven false, will cause our project to fail? 
  
 
-###User assumptions
+### User assumptions
 
 >1. Who is the user? _Note: Now would be a good time to conduct a [persona creation exercise](https://methods.18f.gov/personas/)._
 2. What problems does our product solve? 
